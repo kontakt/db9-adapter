@@ -7,7 +7,11 @@ Use the side marked 'M' for a male DB9, or the side marked 'F' for a female DB9.
 
 # Parts
 2x https://www.digikey.com/en/products/detail/w-rth-elektronik/691137710004/6644053
+
 1x https://www.digikey.com/en/products/detail/amphenol-icc-fci/LD09S33E4GV00LF/4997294
+
 OR
+
 1x https://www.digikey.com/en/products/detail/amphenol-icc-fci/LD09P33E4GV00LF/4997288
+
 
